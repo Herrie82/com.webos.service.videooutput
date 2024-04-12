@@ -1,5 +1,5 @@
 {
   "com.webos.service.videooutput": [
-    "settings"
+    "settings.query"
   ]
 }
